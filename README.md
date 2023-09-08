@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hiba El Echi</h1>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 
-- 👨‍💻 All of my projects are available at [https://hiba-portfolio-two.vercel.app/](https://hiba-portfolio-two.vercel.app/)
 
 - 💬 Ask me about **Front End Developement**
 
