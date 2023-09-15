@@ -2,7 +2,6 @@
 <h3 align="center">A passionate web developer from Tunisia</h3>
 
 
-- 💬 Ask me about **Front End Developement**
 
 - 📫 How to reach me **hibaelechi@gmail.com**
 
