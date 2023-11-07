@@ -2,9 +2,8 @@
 <h3 align="center">A passionate web developer from Tunisia</h3>
 
 - 📫 How to reach me **hibaelechi@gmail.com**
-- 👨‍💻 Portfolio : [https://hiba-portfolio-two.vercel.app/](https://hiba-portfolio-two.vercel.app/)
+- 👨‍💻 Portfolio : [https://hiba-portfolio-two.vercel.app](https://hiba-portfolio-two.vercel.app)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
