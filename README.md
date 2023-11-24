@@ -3,7 +3,6 @@
 
 📫 How to reach me **elechi.hiba@gmail.com**
 
-👨‍💻 Portfolio : [https://hiba-portfolio-two.vercel.app](https://hiba-portfolio-two.vercel.app)
 
 <p align="left">
 </p>
